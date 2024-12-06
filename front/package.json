@@ -1,11 +1,11 @@
 {
-  "name": "react-threejs",
+  "name": "peluchards-nuit-info-2k24",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -17,8 +17,6 @@
     "@radix-ui/react-separator": "^1.1.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@radix-ui/react-switch": "^1.1.1",
-    "@react-three/drei": "^9.120.0",
-    "@react-three/fiber": "^8.17.10",
     "@tailwindcss/forms": "^0.5.9",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -28,8 +26,7 @@
     "react-router-dom": "^7.0.2",
     "recharts": "^2.14.1",
     "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7",
-    "three": "^0.171.0"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
